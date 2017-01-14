@@ -31,5 +31,6 @@
 * The shown model is an octree with 10 subdivisions (model resolution of 1024x1024x1024, screen resolution of 500x500)
 * Used GPU: NVIDIA GTX 750Ti
 * The Polygonal structure in this preview is due to the original model not being very large
+* The .vxl file is ~400MB in size. For reference: each cube contains 3 normal values (32-bit floats) and one colour (32-bit unsigned int), file size for this model using a simple 1024x1024x1024-matrix would be 16GB
 
 ![Preview](https://cloud.githubusercontent.com/assets/23387365/21947686/b307a83a-d9e6-11e6-851d-01f015b8e8b1.PNG)
