@@ -1,4 +1,5 @@
 <img src="https://raw.githubusercontent.com/add-ryan/vxl/master/vxl%20logo.png" height=200/>
+
 ### What is VXL?
 * VXL is a voxel-octree rendering engine running on OpenCL (OpenGL is used for displaying only)
 * (At the moment) it is using a tree based per-pixel search algorithm for rendering voxel models
