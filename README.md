@@ -1,6 +1,6 @@
 ### IMPORTANT
 
-This project was my very first project in C++ (I primarily used Java before), therefore there will be many memory leaks, weird programming styles and also changes in my style of coding. 
+This project was my very first project in C++ (I primarily used Java before), therefore there will be many memory leaks, weird programming styles and also changes in my style of coding. There are also unsued classes and functions, that I planned on using before I stopped working on VXL.
 
 <img src="https://raw.githubusercontent.com/add-ryan/vxl/master/vxl%20logo.png" height=200/>
 
